@@ -20,7 +20,7 @@
                 "https://*/*"
             ],
             "js": [
-                "src/inject/inject.js"
+                "inject.js"
             ]
         }
     ]
